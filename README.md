@@ -4,7 +4,7 @@ An override to the rateLimit extender for the [knockout.js](https://github.com/S
 
 ## Getting Started
 Download the code 
-  [here](https://raw.github.com/jcdobrin/knockoutjs_ratelimit_override/knockout.ratelimit_override.js)
+  [here](https://raw.githubusercontent.com/jcdobrin/knockoutjs_ratelimit_override/main/knockout.ratelimit_override.js) and include in project.
 
 ## Usage
 
